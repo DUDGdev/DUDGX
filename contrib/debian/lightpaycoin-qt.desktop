@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dudgx
+Comment=Dudgx P2P Cryptocurrency
+Comment[fr]=Dudgx, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dudgx, eşten eşe kriptografik sanal para birimi
+Exec=Dudgx-qt %u
+Terminal=false
+Type=Application
+Icon=dudgx128
+MimeType=x-scheme-handler/Dudgx;
+Categories=Office;Finance;

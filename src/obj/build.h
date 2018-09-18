@@ -1,0 +1,2 @@
+#define BUILD_SUFFIX f10670a-dirty
+#define BUILD_DATE "2018-09-17 17:57:06 +0200"
