@@ -12,7 +12,7 @@
 | RPC Port | 38350 |
 | Masternode Port | `38349` |
 
-   Blocks      DUDGX Per Block   
+   Blocks  |    DUDGX Per Block   
 1000 - 100000  - 40 DUDGX    
 100000 - 200000 - 30 DUDGX    
 200000 - 300000 - 20 DUDGX   
