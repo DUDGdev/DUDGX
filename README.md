@@ -13,8 +13,8 @@
 | Masternode Port | `38349` |
 
     Pow
-   Blocks |   DUDGX Per Block 
-   1-200  | 0.001 DUDGX 
+   Blocks -  DUDGX Per Block 
+   1-200  -  0.001 DUDGX 
 
    Blocks  |    DUDGX Per Block   
   200 - 100000  - 40 DUDGX    
