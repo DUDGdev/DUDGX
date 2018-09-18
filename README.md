@@ -12,8 +12,12 @@
 | RPC Port | 38350 |
 | Masternode Port | `38349` |
 
+    Pow
+   Blocks |   DUDGX Per Block 
+   1-200  | 0.001 DUDGX 
+
    Blocks  |    DUDGX Per Block   
-1000 - 100000  - 40 DUDGX    
+  200 - 100000  - 40 DUDGX    
 100000 - 200000 - 30 DUDGX    
 200000 - 300000 - 20 DUDGX   
 300000 - 400000  -10 DUDGX    
@@ -23,7 +27,10 @@
 700000 - 800000  -5 DUDGX     
 800000 - 900000  -4 DUDGX     
 900000 - 1000000 -3 DUDGX        
-1000000 untill the max supply is reached 1 DUDGX     
+1000000 untill the max supply is reached 1 DUDGX  
+
+Pre Mine 60 000 000 to support the swap and development of DUDGX Project.
+
 
 To Build
 ---------------------
