@@ -3,7 +3,6 @@
 
 | Specification | Value |
 |:-----------|:-----------|
-
 | Block Time | `60s` |
 | PoS Reward | `35%` |
 | Stake Maturity | 45 Blocks |
